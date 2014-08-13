@@ -159,7 +159,7 @@ def solver (node_num):
 				print "Something fishy"
 				print "lut_ip: ",lut_ip
 				print "gate_ip: ",gate.inp_d.values()
-				print gate.cell_typ," , ",gate.inst," , ",gate.inp_d," , ",gate.op_d," , ",full_name
+				print gate.cell_typ," , ",gate.inst," , ",gate.inp_d," , ",gate.op_d," , ",gate.inp, " , ",gate.op
 			
 			if(cmp_count == len(lut_ip)):
 				for j,it in enumerate(lut_op):

@@ -22,7 +22,7 @@ class Node:
 		self.inst = inst
 		Node.node_count += 1;
 		self.inp_d = {}
-		self.op_d = {}
+		self.op_d = {} ## solve issue for U461...duplicate input nets...
 		for item in inp:
 			item = ''.join(item.split())
 			self.inp_d[item] = 2	
