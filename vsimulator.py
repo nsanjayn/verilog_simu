@@ -6,7 +6,9 @@
 from datatypes import *
 from vparser import *
 from collections import Counter
-import sys,pdb
+import sys,pdb,os
+
+sys.setrecursionlimit(10000)
 
 debug = 0
 debug_c = 1
@@ -124,31 +126,13 @@ def solver (node_num):
 		print "\t\t---------------------------- In solver --------------------------"
 		print "\t\tAll inputs defined for gate: ",gate.cell_typ, " ",gate.inst
 	
-	full_name = "".join(("/home/nilambsn/py_simulator/LUT/",gate.cell_typ,".v_result"))
-	lut = open('%s'%full_name, "r")
-
-	#if(node_num == 16):
-	#	print gate.inp_d.values()
-	#	joint = ''
-	#	for i in gate.inp_d.values():
-	#		print "before: ",joint
-	#		print "next: ",type(i)
-	#		joint += `i`
-	#		joint = " ".join(joint.split())
-	#	print "joint: ",joint
-	#	for line in lut:
-	#		print line
+	file_name = "".join((gate.cell_typ,".v_result"))
+	full_name = os.path.join(os.path.dirname(__file__), "./LUT/",file_name)
+	if (node_num == 16):
+		print full_name
+	lut = open(full_name, "r")
 
 	inp_arr = gate.inp_d.keys()
-	#to_solve = ''
-	#for i in gate.inp_d.values():
-	#	print i
-	#	to_solve += str(i) 
-	#to_solve += ':\s'
-	#print to_solve 
-	#if(node_num == 16):
-	#	print gate.inp_d.values()
-	#	print to_solve
 	return_flag = False
 	for line in lut:
 		if(node_num == 16):
@@ -167,12 +151,17 @@ def solver (node_num):
 			lut_op.remove(" ")
 			lut_op = [int(i) for i in lut_op]
 			
-			for i in range(len(lut_ip)):
-				if(lut_ip[i] == gate.inp_d.values()[i]):
-					cmp_count += 1
+			if(len(lut_ip) == len(gate.inp_d.values())):	
+				for i in range(len(lut_ip)):
+					if(lut_ip[i] == gate.inp_d.values()[i]):
+						cmp_count += 1
+			else:
+				print "Something fishy"
+				print "lut_ip: ",lut_ip
+				print "gate_ip: ",gate.inp_d.values()
+				print gate.cell_typ," , ",gate.inst," , ",gate.inp_d," , ",gate.op_d," , ",full_name
 			
 			if(cmp_count == len(lut_ip)):
-				print "file that matches: ",full_name
 				for j,it in enumerate(lut_op):
 					gate.op_d[gate.op[j]] = it
 					if(gate.op[j] in output_calc.po_tracker.keys()):

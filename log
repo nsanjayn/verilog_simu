@@ -1,337 +1,760 @@
 Arguments received: 
-infile:  ../thesis/c880_syn_buf_noline.v
+infile:  ../thesis/code/c880_syn_buf_noline.v
 Lib file:  lib_f
 Debug mode state:  0
 Pattern file to be used:  pat_file
 Parsing verilog file in vparser.py
 Number of inputs:  60
 Number of outputs:  26
-file that matches:  /home/nilambsn/py_simulator/LUT/AND3_X1.v_result
 {'N389': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AND3_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/XNOR2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OAI33_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/CLKBUF_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI22_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AND4_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OAI211_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AND2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AND4_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AND2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND4_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI222_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AND2_X2.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OAI21_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AND2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AND2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OAI21_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/XNOR2_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI22_X1.v_result
 {'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OAI211_X1.v_result
 {'N874': 0, 'N389': 0, 'N388': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AND2_X1.v_result
 {'N874': 0, 'N389': 0, 'N388': 0, 'N448': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AND3_X1.v_result
 {'N874': 0, 'N389': 0, 'N388': 0, 'N448': 0, 'N449': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
 {'N874': 0, 'N389': 0, 'N388': 0, 'N448': 0, 'N449': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AND4_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/CLKBUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/CLKBUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OAI21_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OR3_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI22_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI222_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND4_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OAI21_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OAI21_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/XOR2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI22_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI222_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X16.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X16.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OAI211_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X8.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X4.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X8.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X16.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/XNOR2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X4.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OAI21_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AND3_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/AND2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/XOR2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/XOR2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
-file that matches:  /home/nilambsn/py_simulator/LUT/XOR2_X1.v_result
 {'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
 in the count section:  {'N106': 0, 'N101': 0}
 As predicted 16
+/home/sanjay/verilog_simu/./LUT/XOR2_X1.v_result
 Chronologic VCS simulator copyright 1991-2013
 
+Contains Synopsys proprietary information.
+
+Compiler version H-2013.06; Runtime version H-2013.06;  Aug 12 21:30 2014
+
+output of XOR2_X1
+
+
+
+A B :Z  
+
+00: 0
+
+00: 0
+
+01: 1
+
+01: 1
+
+10: 1
+
+10: 1
+
+11: 0
+
+11: 0
+
+           V C S   S i m u l a t i o n   R e p o r t 
+
+Time: 60
+
+CPU Time:      0.400 seconds;       Data structure size:   0.0Mb
+
+Tue Aug 12 21:30:04 2014
+
+solver returned:  -1
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+/home/sanjay/verilog_simu/./LUT/XOR2_X1.v_result
+Chronologic VCS simulator copyright 1991-2013
+
+Contains Synopsys proprietary information.
+
+Compiler version H-2013.06; Runtime version H-2013.06;  Aug 12 21:30 2014
+
+output of XOR2_X1
+
+
+
+A B :Z  
+
+00: 0
+
+00: 0
+
+01: 1
+
+01: 1
+
+10: 1
+
+10: 1
+
+11: 0
+
+11: 0
+
+           V C S   S i m u l a t i o n   R e p o r t 
+
+Time: 60
+
+CPU Time:      0.400 seconds;       Data structure size:   0.0Mb
+
+Tue Aug 12 21:30:04 2014
+
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+/home/sanjay/verilog_simu/./LUT/AND2_X1.v_result
+Chronologic VCS simulator copyright 1991-2013
+
+Contains Synopsys proprietary information.
+
+Compiler version H-2013.06; Runtime version H-2013.06;  Aug 10 20:50 2014
+
+output of AND2_X1
+
+
+
+A1 A2 :ZN  
+
+00: 0
+
+00: 0
+
+01: 0
+
+01: 0
+
+10: 0
+
+10: 0
+
+11: 1
+
+11: 1
+
+           V C S   S i m u l a t i o n   R e p o r t 
+
+Time: 60
+
+CPU Time:      0.380 seconds;       Data structure size:   0.0Mb
+
+Sun Aug 10 20:50:02 2014
+
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+/home/sanjay/verilog_simu/./LUT/AOI222_X1.v_result
+Chronologic VCS simulator copyright 1991-2013
+
+Contains Synopsys proprietary information.
+
+Compiler version H-2013.06; Runtime version H-2013.06;  Aug 10 20:51 2014
+
+output of AOI222_X1
+
+
+
+A1 A2 B1 B2 C1 C2 :ZN  
+
+000000: 1
+
+000000: 1
+
+000001: 1
+
+000001: 1
+
+000010: 1
+
+000010: 1
+
+000011: 0
+
+000011: 0
+
+000100: 1
+
+000100: 1
+
+000101: 1
+
+000101: 1
+
+000110: 1
+
+000110: 1
+
+000111: 0
+
+000111: 0
+
+001000: 1
+
+001000: 1
+
+001001: 1
+
+001001: 1
+
+001010: 1
+
+001010: 1
+
+001011: 0
+
+001011: 0
+
+001100: 0
+
+001100: 0
+
+001101: 0
+
+001101: 0
+
+001110: 0
+
+001110: 0
+
+001111: 0
+
+001111: 0
+
+010000: 1
+
+010000: 1
+
+010001: 1
+
+010001: 1
+
+010010: 1
+
+010010: 1
+
+010011: 0
+
+010011: 0
+
+010100: 1
+
+010100: 1
+
+010101: 1
+
+010101: 1
+
+010110: 1
+
+010110: 1
+
+010111: 0
+
+010111: 0
+
+011000: 1
+
+011000: 1
+
+011001: 1
+
+011001: 1
+
+011010: 1
+
+011010: 1
+
+011011: 0
+
+011011: 0
+
+011100: 0
+
+011100: 0
+
+011101: 0
+
+011101: 0
+
+011110: 0
+
+011110: 0
+
+011111: 0
+
+011111: 0
+
+100000: 1
+
+100000: 1
+
+100001: 1
+
+100001: 1
+
+100010: 1
+
+100010: 1
+
+100011: 0
+
+100011: 0
+
+100100: 1
+
+100100: 1
+
+100101: 1
+
+100101: 1
+
+100110: 1
+
+100110: 1
+
+100111: 0
+
+100111: 0
+
+101000: 1
+
+101000: 1
+
+101001: 1
+
+101001: 1
+
+101010: 1
+
+101010: 1
+
+101011: 0
+
+101011: 0
+
+101100: 0
+
+101100: 0
+
+101101: 0
+
+101101: 0
+
+101110: 0
+
+101110: 0
+
+101111: 0
+
+101111: 0
+
+110000: 0
+
+110000: 0
+
+110001: 0
+
+110001: 0
+
+110010: 0
+
+110010: 0
+
+110011: 0
+
+110011: 0
+
+110100: 0
+
+110100: 0
+
+110101: 0
+
+110101: 0
+
+110110: 0
+
+110110: 0
+
+110111: 0
+
+110111: 0
+
+111000: 0
+
+111000: 0
+
+111001: 0
+
+111001: 0
+
+111010: 0
+
+111010: 0
+
+111011: 0
+
+111011: 0
+
+111100: 0
+
+111100: 0
+
+111101: 0
+
+111101: 0
+
+111110: 0
+
+111110: 0
+
+111111: 0
+
+111111: 0
+
+           V C S   S i m u l a t i o n   R e p o r t 
+
+Time: 960
+
+CPU Time:      0.400 seconds;       Data structure size:   0.0Mb
+
+Sun Aug 10 20:51:02 2014
+
+{'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N865': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N865': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N865': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+Something fishy
+lut_ip:  [0, 0, 0, 0, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 0, 0, 0, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 0, 0, 1, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 0, 0, 1, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 0, 1, 0, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 0, 1, 0, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 0, 1, 1, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 0, 1, 1, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 1, 0, 0, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 1, 0, 0, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 1, 0, 1, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 1, 0, 1, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 1, 1, 0, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 1, 1, 0, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 1, 1, 1, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [0, 1, 1, 1, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 0, 0, 0, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 0, 0, 0, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 0, 0, 1, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 0, 0, 1, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 0, 1, 0, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 0, 1, 0, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 0, 1, 1, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 0, 1, 1, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 1, 0, 0, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 1, 0, 0, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 1, 0, 1, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 1, 0, 1, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 1, 1, 0, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 1, 1, 0, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 1, 1, 1, 0]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+Something fishy
+lut_ip:  [1, 1, 1, 1, 1]
+gate_ip:  [0, 0, 0, 0]
+AOI221_X1  ,  U461  ,  {'n327': 0, 'n371': 0, 'n373': 0, 'n330': 0}  ,  {'n470': 2}  ,  /home/sanjay/verilog_simu/./LUT/AOI221_X1.v_result
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N865': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N865': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N865': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N865': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N865': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N865': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N865': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N865': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N864': 0, 'N390': 0, 'N391': 0, 'N389': 0, 'N388': 0, 'N863': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N865': 0, 'N874': 0, 'N880': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N768': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+{'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N880': 0, 'N768': 0, 'N390': 0, 'N391': 0, 'N864': 0, 'N865': 0, 'N863': 0, 'N450': 0}
+{'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N880': 0, 'N768': 0, 'N390': 0, 'N391': 0, 'N864': 0, 'N865': 0, 'N863': 0, 'N450': 0, 'N419': 1}
+{'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N767': 0, 'N880': 0, 'N768': 0, 'N390': 0, 'N391': 0, 'N864': 0, 'N865': 0, 'N863': 0, 'N450': 0, 'N419': 1, 'N418': 0}
