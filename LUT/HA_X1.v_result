@@ -1,0 +1,14 @@
+Chronologic VCS simulator copyright 1991-2013
+Contains Synopsys proprietary information.
+Compiler version H-2013.06; Runtime version H-2013.06;  Aug 10 20:53 2014
+output of HA_X1
+
+A B :CO S  
+00: 00
+01: 01
+10: 01
+11: 10
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 60
+CPU Time:      0.380 seconds;       Data structure size:   0.0Mb
+Sun Aug 10 20:53:11 2014

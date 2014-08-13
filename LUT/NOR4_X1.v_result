@@ -1,0 +1,26 @@
+Chronologic VCS simulator copyright 1991-2013
+Contains Synopsys proprietary information.
+Compiler version H-2013.06; Runtime version H-2013.06;  Aug 10 20:54 2014
+output of NOR4_X1
+
+A1 A2 A3 A4 :ZN  
+0000: 1
+0001: 0
+0010: 0
+0011: 0
+0100: 0
+0101: 0
+0110: 0
+0111: 0
+1000: 0
+1001: 0
+1010: 0
+1011: 0
+1100: 0
+1101: 0
+1110: 0
+1111: 0
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 240
+CPU Time:      0.400 seconds;       Data structure size:   0.0Mb
+Sun Aug 10 20:54:39 2014

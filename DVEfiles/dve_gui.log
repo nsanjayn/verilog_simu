@@ -1,0 +1,16 @@
+dve> run 50
+output of MUX2_X1
+
+000: x
+001: 0
+010: 0
+011: 0
+100: 1
+101: 1
+110: 0
+111: 1
+50 s
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 50
+CPU Time:      0.280 seconds;       Data structure size:   0.0Mb
+Sun Aug 10 18:42:48 2014

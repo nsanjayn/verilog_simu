@@ -1,0 +1,84 @@
+0 
+18
+-Mamsrun=
+-Masflags=--32
+-Mcc=gcc
+-Mcfl= -pipe -m32 -O -I/opt/CAD/Synopsys/H-2013.06/vcs-mx/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mldflags= -melf_i386 -m32
+-Mobjects= /opt/CAD/Synopsys/H-2013.06/vcs-mx/linux/lib/libvirsim.so /opt/CAD/Synopsys/H-2013.06/vcs-mx/linux/lib/librterrorinf.so /opt/CAD/Synopsys/H-2013.06/vcs-mx/linux/lib/libsnpsmalloc.so
+-Mout=simv
+-Msaverestoreobj=/opt/CAD/Synopsys/H-2013.06/vcs-mx/linux/lib/vcs_save_restore_new.o
+-Msyslibs=/opt/CAD/Synopsys/H-2013.06/vcs-mx/linux/lib/ctype-stubs_32.a -ldl
+-Mvcsaceobjs=
+-gen_obj
+/opt/CAD/Synopsys/H-2013.06/vcs-mx/linux/bin/vcs1
+test_bench/XOR2_X1_tb.v
+verilog_gates/XOR2_X1.v
+53
+sysc_uni_pwd=/home/nilambsn/py_simulator
+_cshrc_done=yes
+XLIB_SKIP_ARGB_VISUALS=1
+XDG_SESSION_COOKIE=c98a7b3e76eb0c917beefc0a00000005-1407357579.631933-1998120296
+XDG_DATA_DIRS=/usr/share:/usr/share:/usr/local/share
+XCURSOR_THEME=default
+WHOAMI=nilambsn
+VNCDESKTOP=linux-lab-03:2 (nilambsn)
+VMR_MODE_FLAG=32
+VENDOR=unknown
+VCS_MX_HOME_INTERNAL=1
+VCS_HOME=/opt/CAD/Synopsys/H-2013.06/vcs-mx
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux
+VCS_AMD_PURE32=1
+VCSMX_HOME=/opt/CAD/Synopsys/H-2013.06/vcs-mx
+UNAME=/bin/uname
+TOOL_HOME=/opt/CAD/Synopsys/H-2013.06/vcs-mx/linux
+TK_LIBRARY=/opt/CAD/Synopsys/H-2013.06/vcs-mx/etc/auxx/tcllib/tk8.4/library
+SYNOPSYS=/opt/CAD/Synopsys/Current/syn
+SSH_TTY=/dev/pts/2
+SSH_CONNECTION=10.46.2.173 52662 10.63.1.131 22
+SSH_CLIENT=10.46.2.173 52662 22
+SNPSLMD_LICENSE_FILE=27000@olympus.ececs.engr.uc.edu:/opt/CAD/Synopsys/H-2013.06/vcs-mx/flexlm//license.dat
+SHELL_SESSION_ID=e6fa0986a7e640009a45979467c84b10
+SESSION_MANAGER=local/linux-lab-03:@/tmp/.ICE-unix/14797,unix/linux-lab-03:/tmp/.ICE-unix/14797
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+REMOTEHOST=irc-ec-ri0422a.riev.uc.edu
+QT_PLUGIN_PATH=/home/nilambsn/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/
+PROFILEHOME=
+OVA_UUM=0
+OSTYPE=linux
+NANOSIM_64=true
+LC_ALL=C
+KONSOLE_DBUS_SESSION=/Sessions/1
+KONSOLE_DBUS_SERVICE=:1.72
+KDE_SESSION_VERSION=4
+KDE_SESSION_UID=184571667
+KDE_MULTIHEAD=false
+KDE_FULL_SESSION=true
+HOSTTYPE=x86_64-linux
+GTK_RC_FILES=/etc/gtk/gtkrc:/home/nilambsn/.gtkrc:/home/nilambsn/.kde/share/config/gtkrc
+GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/nilambsn/.gtkrc-2.0:/home/nilambsn/.kde/share/config/gtkrc-2.0
+GS_LIB=/home/nilambsn/.fonts
+GROUP=nilambsn
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-PQYIfpDFYv,guid=f4e5af41393b68c55abc96d8000aadbf
+COLORFGBG=15;0
+CDS_SITE=/opt/CAD/Cadence/ncsu-cdk-for-IC6/cdssetup
+CDS_LIC_FILE=/opt/CAD/Cadence/license/license.dat
+CDK_DIR=/opt/CAD/Cadence/ncsu-cdk-for-IC6
+ARCH=linux
+0
+2
+1407718117 test_bench/XOR2_X1_tb.v
+1407718119 verilog_gates/XOR2_X1.v
+4
+0 
+1369979980 /opt/CAD/Synopsys/H-2013.06/vcs-mx/linux/lib/libvirsim.so
+1369979542 /opt/CAD/Synopsys/H-2013.06/vcs-mx/linux/lib/librterrorinf.so
+1369979502 /opt/CAD/Synopsys/H-2013.06/vcs-mx/linux/lib/libsnpsmalloc.so
+1407893390 simv.daidir

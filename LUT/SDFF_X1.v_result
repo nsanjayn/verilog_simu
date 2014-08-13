@@ -1,0 +1,26 @@
+Chronologic VCS simulator copyright 1991-2013
+Contains Synopsys proprietary information.
+Compiler version H-2013.06; Runtime version H-2013.06;  Aug 10 20:56 2014
+output of SDFF_X1
+
+D SE SI CK :Q QN  
+0000: xx
+0001: 01
+0010: 01
+0011: xx
+0100: xx
+0101: 01
+0110: 01
+0111: 10
+1000: 10
+1001: xx
+1010: xx
+1011: xx
+1100: xx
+1101: 01
+1110: 01
+1111: 10
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 240
+CPU Time:      0.380 seconds;       Data structure size:   0.0Mb
+Sun Aug 10 20:56:42 2014

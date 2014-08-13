@@ -1,0 +1,337 @@
+Arguments received: 
+infile:  ../thesis/c880_syn_buf_noline.v
+Lib file:  lib_f
+Debug mode state:  0
+Pattern file to be used:  pat_file
+Parsing verilog file in vparser.py
+Number of inputs:  60
+Number of outputs:  26
+file that matches:  /home/nilambsn/py_simulator/LUT/AND3_X1.v_result
+{'N389': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AND3_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/XNOR2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OAI33_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/CLKBUF_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI22_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AND4_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OAI211_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AND2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AND4_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AND2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND4_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI222_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AND2_X2.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OAI21_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AND2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AND2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OAI21_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/XNOR2_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI22_X1.v_result
+{'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OAI211_X1.v_result
+{'N874': 0, 'N389': 0, 'N388': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AND2_X1.v_result
+{'N874': 0, 'N389': 0, 'N388': 0, 'N448': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AND3_X1.v_result
+{'N874': 0, 'N389': 0, 'N388': 0, 'N448': 0, 'N449': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
+{'N874': 0, 'N389': 0, 'N388': 0, 'N448': 0, 'N449': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AND4_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/CLKBUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/CLKBUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OAI21_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OR3_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI22_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI222_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND4_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OAI21_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OAI21_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/XOR2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI22_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI222_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X16.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X16.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OAI211_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X8.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X4.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI221_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/INV_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X8.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NOR2_X1.v_result
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AOI21_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X16.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/XNOR2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X4.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OAI21_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/BUF_X32.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AND3_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/NAND3_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/OR2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/AND2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/XOR2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/XOR2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+file that matches:  /home/nilambsn/py_simulator/LUT/XOR2_X1.v_result
+{'N390': 0, 'N389': 0, 'N388': 0, 'N420': 1, 'N421': 1, 'N422': 1, 'N423': 0, 'N874': 0, 'N448': 0, 'N449': 0, 'N447': 0, 'N850': 0, 'N879': 0, 'N878': 0}
+in the count section:  {'N106': 0, 'N101': 0}
+As predicted 16
+Chronologic VCS simulator copyright 1991-2013
+

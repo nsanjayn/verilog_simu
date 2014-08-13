@@ -1,0 +1,18 @@
+Chronologic VCS simulator copyright 1991-2013
+Contains Synopsys proprietary information.
+Compiler version H-2013.06; Runtime version H-2013.06;  Aug 10 20:50 2014
+output of AOI21_X1
+
+A B1 B2 :ZN  
+000: 1
+001: 1
+010: 1
+011: 0
+100: 0
+101: 0
+110: 0
+111: 0
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 120
+CPU Time:      0.380 seconds;       Data structure size:   0.0Mb
+Sun Aug 10 20:50:42 2014

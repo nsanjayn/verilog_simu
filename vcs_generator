@@ -1,0 +1,1 @@
+perl -n -e 'chomp($_); my $tb = $_; $tb =~ s/.v//;print "vcs ./verilog_gates/$_ ./test_bench/$tb\_tb.v \n ./simv > ./LUT/$_\_result\n"' gate_list > vcs_commands

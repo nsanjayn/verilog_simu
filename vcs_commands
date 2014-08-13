@@ -1,0 +1,250 @@
+vcs ./verilog_gates/AND2_X1.v ./test_bench/AND2_X1_tb.v 
+ ./simv >! ./LUT/AND2_X1.v_result
+vcs ./verilog_gates/AND2_X2.v ./test_bench/AND2_X2_tb.v 
+ ./simv >! ./LUT/AND2_X2.v_result
+vcs ./verilog_gates/AND2_X4.v ./test_bench/AND2_X4_tb.v 
+ ./simv >! ./LUT/AND2_X4.v_result
+vcs ./verilog_gates/AND3_X1.v ./test_bench/AND3_X1_tb.v 
+ ./simv >! ./LUT/AND3_X1.v_result
+vcs ./verilog_gates/AND3_X2.v ./test_bench/AND3_X2_tb.v 
+ ./simv >! ./LUT/AND3_X2.v_result
+vcs ./verilog_gates/AND3_X4.v ./test_bench/AND3_X4_tb.v 
+ ./simv >! ./LUT/AND3_X4.v_result
+vcs ./verilog_gates/AND4_X1.v ./test_bench/AND4_X1_tb.v 
+ ./simv >! ./LUT/AND4_X1.v_result
+vcs ./verilog_gates/AND4_X2.v ./test_bench/AND4_X2_tb.v 
+ ./simv >! ./LUT/AND4_X2.v_result
+vcs ./verilog_gates/AND4_X4.v ./test_bench/AND4_X4_tb.v 
+ ./simv >! ./LUT/AND4_X4.v_result
+vcs ./verilog_gates/AOI211_X1.v ./test_bench/AOI211_X1_tb.v 
+ ./simv >! ./LUT/AOI211_X1.v_result
+vcs ./verilog_gates/AOI211_X2.v ./test_bench/AOI211_X2_tb.v 
+ ./simv >! ./LUT/AOI211_X2.v_result
+vcs ./verilog_gates/AOI211_X4.v ./test_bench/AOI211_X4_tb.v 
+ ./simv >! ./LUT/AOI211_X4.v_result
+vcs ./verilog_gates/AOI21_X1.v ./test_bench/AOI21_X1_tb.v 
+ ./simv >! ./LUT/AOI21_X1.v_result
+vcs ./verilog_gates/AOI21_X2.v ./test_bench/AOI21_X2_tb.v 
+ ./simv >! ./LUT/AOI21_X2.v_result
+vcs ./verilog_gates/AOI21_X4.v ./test_bench/AOI21_X4_tb.v 
+ ./simv >! ./LUT/AOI21_X4.v_result
+vcs ./verilog_gates/AOI221_X1.v ./test_bench/AOI221_X1_tb.v 
+ ./simv >! ./LUT/AOI221_X1.v_result
+vcs ./verilog_gates/AOI221_X2.v ./test_bench/AOI221_X2_tb.v 
+ ./simv >! ./LUT/AOI221_X2.v_result
+vcs ./verilog_gates/AOI221_X4.v ./test_bench/AOI221_X4_tb.v 
+ ./simv >! ./LUT/AOI221_X4.v_result
+vcs ./verilog_gates/AOI222_X1.v ./test_bench/AOI222_X1_tb.v 
+ ./simv >! ./LUT/AOI222_X1.v_result
+vcs ./verilog_gates/AOI222_X2.v ./test_bench/AOI222_X2_tb.v 
+ ./simv >! ./LUT/AOI222_X2.v_result
+vcs ./verilog_gates/AOI222_X4.v ./test_bench/AOI222_X4_tb.v 
+ ./simv >! ./LUT/AOI222_X4.v_result
+vcs ./verilog_gates/AOI22_X1.v ./test_bench/AOI22_X1_tb.v 
+ ./simv >! ./LUT/AOI22_X1.v_result
+vcs ./verilog_gates/AOI22_X2.v ./test_bench/AOI22_X2_tb.v 
+ ./simv >! ./LUT/AOI22_X2.v_result
+vcs ./verilog_gates/AOI22_X4.v ./test_bench/AOI22_X4_tb.v 
+ ./simv >! ./LUT/AOI22_X4.v_result
+vcs ./verilog_gates/BUF_X16.v ./test_bench/BUF_X16_tb.v 
+ ./simv >! ./LUT/BUF_X16.v_result
+vcs ./verilog_gates/BUF_X1.v ./test_bench/BUF_X1_tb.v 
+ ./simv >! ./LUT/BUF_X1.v_result
+vcs ./verilog_gates/BUF_X2.v ./test_bench/BUF_X2_tb.v 
+ ./simv >! ./LUT/BUF_X2.v_result
+vcs ./verilog_gates/BUF_X32.v ./test_bench/BUF_X32_tb.v 
+ ./simv >! ./LUT/BUF_X32.v_result
+vcs ./verilog_gates/BUF_X4.v ./test_bench/BUF_X4_tb.v 
+ ./simv >! ./LUT/BUF_X4.v_result
+vcs ./verilog_gates/BUF_X8.v ./test_bench/BUF_X8_tb.v 
+ ./simv >! ./LUT/BUF_X8.v_result
+vcs ./verilog_gates/CLKBUF_X1.v ./test_bench/CLKBUF_X1_tb.v 
+ ./simv >! ./LUT/CLKBUF_X1.v_result
+vcs ./verilog_gates/CLKBUF_X2.v ./test_bench/CLKBUF_X2_tb.v 
+ ./simv >! ./LUT/CLKBUF_X2.v_result
+vcs ./verilog_gates/CLKBUF_X3.v ./test_bench/CLKBUF_X3_tb.v 
+ ./simv >! ./LUT/CLKBUF_X3.v_result
+vcs ./verilog_gates/CLKGATETST_X1.v ./test_bench/CLKGATETST_X1_tb.v 
+ ./simv >! ./LUT/CLKGATETST_X1.v_result
+vcs ./verilog_gates/CLKGATETST_X2.v ./test_bench/CLKGATETST_X2_tb.v 
+ ./simv >! ./LUT/CLKGATETST_X2.v_result
+vcs ./verilog_gates/CLKGATETST_X4.v ./test_bench/CLKGATETST_X4_tb.v 
+ ./simv >! ./LUT/CLKGATETST_X4.v_result
+vcs ./verilog_gates/CLKGATETST_X8.v ./test_bench/CLKGATETST_X8_tb.v 
+ ./simv >! ./LUT/CLKGATETST_X8.v_result
+vcs ./verilog_gates/CLKGATE_X1.v ./test_bench/CLKGATE_X1_tb.v 
+ ./simv >! ./LUT/CLKGATE_X1.v_result
+vcs ./verilog_gates/CLKGATE_X2.v ./test_bench/CLKGATE_X2_tb.v 
+ ./simv >! ./LUT/CLKGATE_X2.v_result
+vcs ./verilog_gates/CLKGATE_X4.v ./test_bench/CLKGATE_X4_tb.v 
+ ./simv >! ./LUT/CLKGATE_X4.v_result
+vcs ./verilog_gates/CLKGATE_X8.v ./test_bench/CLKGATE_X8_tb.v 
+ ./simv >! ./LUT/CLKGATE_X8.v_result
+vcs ./verilog_gates/DFFRS_X1.v ./test_bench/DFFRS_X1_tb.v 
+ ./simv >! ./LUT/DFFRS_X1.v_result
+vcs ./verilog_gates/DFFRS_X2.v ./test_bench/DFFRS_X2_tb.v 
+ ./simv >! ./LUT/DFFRS_X2.v_result
+vcs ./verilog_gates/DFFR_X1.v ./test_bench/DFFR_X1_tb.v 
+ ./simv >! ./LUT/DFFR_X1.v_result
+vcs ./verilog_gates/DFFR_X2.v ./test_bench/DFFR_X2_tb.v 
+ ./simv >! ./LUT/DFFR_X2.v_result
+vcs ./verilog_gates/DFFS_X1.v ./test_bench/DFFS_X1_tb.v 
+ ./simv >! ./LUT/DFFS_X1.v_result
+vcs ./verilog_gates/DFFS_X2.v ./test_bench/DFFS_X2_tb.v 
+ ./simv >! ./LUT/DFFS_X2.v_result
+vcs ./verilog_gates/DFF_X1.v ./test_bench/DFF_X1_tb.v 
+ ./simv >! ./LUT/DFF_X1.v_result
+vcs ./verilog_gates/DFF_X2.v ./test_bench/DFF_X2_tb.v 
+ ./simv >! ./LUT/DFF_X2.v_result
+vcs ./verilog_gates/DLH_X1.v ./test_bench/DLH_X1_tb.v 
+ ./simv >! ./LUT/DLH_X1.v_result
+vcs ./verilog_gates/DLH_X2.v ./test_bench/DLH_X2_tb.v 
+ ./simv >! ./LUT/DLH_X2.v_result
+vcs ./verilog_gates/DLL_X1.v ./test_bench/DLL_X1_tb.v 
+ ./simv >! ./LUT/DLL_X1.v_result
+vcs ./verilog_gates/DLL_X2.v ./test_bench/DLL_X2_tb.v 
+ ./simv >! ./LUT/DLL_X2.v_result
+vcs ./verilog_gates/FA_X1.v ./test_bench/FA_X1_tb.v 
+ ./simv >! ./LUT/FA_X1.v_result
+vcs ./verilog_gates/HA_X1.v ./test_bench/HA_X1_tb.v 
+ ./simv >! ./LUT/HA_X1.v_result
+vcs ./verilog_gates/INV_X16.v ./test_bench/INV_X16_tb.v 
+ ./simv >! ./LUT/INV_X16.v_result
+vcs ./verilog_gates/INV_X1.v ./test_bench/INV_X1_tb.v 
+ ./simv >! ./LUT/INV_X1.v_result
+vcs ./verilog_gates/INV_X2.v ./test_bench/INV_X2_tb.v 
+ ./simv >! ./LUT/INV_X2.v_result
+vcs ./verilog_gates/INV_X32.v ./test_bench/INV_X32_tb.v 
+ ./simv >! ./LUT/INV_X32.v_result
+vcs ./verilog_gates/INV_X4.v ./test_bench/INV_X4_tb.v 
+ ./simv >! ./LUT/INV_X4.v_result
+vcs ./verilog_gates/INV_X8.v ./test_bench/INV_X8_tb.v 
+ ./simv >! ./LUT/INV_X8.v_result
+vcs ./verilog_gates/MUX2_X1.v ./test_bench/MUX2_X1_tb.v 
+ ./simv >! ./LUT/MUX2_X1.v_result
+vcs ./verilog_gates/MUX2_X2.v ./test_bench/MUX2_X2_tb.v 
+ ./simv >! ./LUT/MUX2_X2.v_result
+vcs ./verilog_gates/NAND2_X1.v ./test_bench/NAND2_X1_tb.v 
+ ./simv >! ./LUT/NAND2_X1.v_result
+vcs ./verilog_gates/NAND2_X2.v ./test_bench/NAND2_X2_tb.v 
+ ./simv >! ./LUT/NAND2_X2.v_result
+vcs ./verilog_gates/NAND2_X4.v ./test_bench/NAND2_X4_tb.v 
+ ./simv >! ./LUT/NAND2_X4.v_result
+vcs ./verilog_gates/NAND3_X1.v ./test_bench/NAND3_X1_tb.v 
+ ./simv >! ./LUT/NAND3_X1.v_result
+vcs ./verilog_gates/NAND3_X2.v ./test_bench/NAND3_X2_tb.v 
+ ./simv >! ./LUT/NAND3_X2.v_result
+vcs ./verilog_gates/NAND3_X4.v ./test_bench/NAND3_X4_tb.v 
+ ./simv >! ./LUT/NAND3_X4.v_result
+vcs ./verilog_gates/NAND4_X1.v ./test_bench/NAND4_X1_tb.v 
+ ./simv >! ./LUT/NAND4_X1.v_result
+vcs ./verilog_gates/NAND4_X2.v ./test_bench/NAND4_X2_tb.v 
+ ./simv >! ./LUT/NAND4_X2.v_result
+vcs ./verilog_gates/NAND4_X4.v ./test_bench/NAND4_X4_tb.v 
+ ./simv >! ./LUT/NAND4_X4.v_result
+vcs ./verilog_gates/NOR2_X1.v ./test_bench/NOR2_X1_tb.v 
+ ./simv >! ./LUT/NOR2_X1.v_result
+vcs ./verilog_gates/NOR2_X2.v ./test_bench/NOR2_X2_tb.v 
+ ./simv >! ./LUT/NOR2_X2.v_result
+vcs ./verilog_gates/NOR2_X4.v ./test_bench/NOR2_X4_tb.v 
+ ./simv >! ./LUT/NOR2_X4.v_result
+vcs ./verilog_gates/NOR3_X1.v ./test_bench/NOR3_X1_tb.v 
+ ./simv >! ./LUT/NOR3_X1.v_result
+vcs ./verilog_gates/NOR3_X2.v ./test_bench/NOR3_X2_tb.v 
+ ./simv >! ./LUT/NOR3_X2.v_result
+vcs ./verilog_gates/NOR3_X4.v ./test_bench/NOR3_X4_tb.v 
+ ./simv >! ./LUT/NOR3_X4.v_result
+vcs ./verilog_gates/NOR4_X1.v ./test_bench/NOR4_X1_tb.v 
+ ./simv >! ./LUT/NOR4_X1.v_result
+vcs ./verilog_gates/NOR4_X2.v ./test_bench/NOR4_X2_tb.v 
+ ./simv >! ./LUT/NOR4_X2.v_result
+vcs ./verilog_gates/NOR4_X4.v ./test_bench/NOR4_X4_tb.v 
+ ./simv >! ./LUT/NOR4_X4.v_result
+vcs ./verilog_gates/OAI211_X1.v ./test_bench/OAI211_X1_tb.v 
+ ./simv >! ./LUT/OAI211_X1.v_result
+vcs ./verilog_gates/OAI211_X2.v ./test_bench/OAI211_X2_tb.v 
+ ./simv >! ./LUT/OAI211_X2.v_result
+vcs ./verilog_gates/OAI211_X4.v ./test_bench/OAI211_X4_tb.v 
+ ./simv >! ./LUT/OAI211_X4.v_result
+vcs ./verilog_gates/OAI21_X1.v ./test_bench/OAI21_X1_tb.v 
+ ./simv >! ./LUT/OAI21_X1.v_result
+vcs ./verilog_gates/OAI21_X2.v ./test_bench/OAI21_X2_tb.v 
+ ./simv >! ./LUT/OAI21_X2.v_result
+vcs ./verilog_gates/OAI21_X4.v ./test_bench/OAI21_X4_tb.v 
+ ./simv >! ./LUT/OAI21_X4.v_result
+vcs ./verilog_gates/OAI221_X1.v ./test_bench/OAI221_X1_tb.v 
+ ./simv >! ./LUT/OAI221_X1.v_result
+vcs ./verilog_gates/OAI221_X2.v ./test_bench/OAI221_X2_tb.v 
+ ./simv >! ./LUT/OAI221_X2.v_result
+vcs ./verilog_gates/OAI221_X4.v ./test_bench/OAI221_X4_tb.v 
+ ./simv >! ./LUT/OAI221_X4.v_result
+vcs ./verilog_gates/OAI222_X1.v ./test_bench/OAI222_X1_tb.v 
+ ./simv >! ./LUT/OAI222_X1.v_result
+vcs ./verilog_gates/OAI222_X2.v ./test_bench/OAI222_X2_tb.v 
+ ./simv >! ./LUT/OAI222_X2.v_result
+vcs ./verilog_gates/OAI222_X4.v ./test_bench/OAI222_X4_tb.v 
+ ./simv >! ./LUT/OAI222_X4.v_result
+vcs ./verilog_gates/OAI22_X1.v ./test_bench/OAI22_X1_tb.v 
+ ./simv >! ./LUT/OAI22_X1.v_result
+vcs ./verilog_gates/OAI22_X2.v ./test_bench/OAI22_X2_tb.v 
+ ./simv >! ./LUT/OAI22_X2.v_result
+vcs ./verilog_gates/OAI22_X4.v ./test_bench/OAI22_X4_tb.v 
+ ./simv >! ./LUT/OAI22_X4.v_result
+vcs ./verilog_gates/OAI33_X1.v ./test_bench/OAI33_X1_tb.v 
+ ./simv >! ./LUT/OAI33_X1.v_result
+vcs ./verilog_gates/OR2_X1.v ./test_bench/OR2_X1_tb.v 
+ ./simv >! ./LUT/OR2_X1.v_result
+vcs ./verilog_gates/OR2_X2.v ./test_bench/OR2_X2_tb.v 
+ ./simv >! ./LUT/OR2_X2.v_result
+vcs ./verilog_gates/OR2_X4.v ./test_bench/OR2_X4_tb.v 
+ ./simv >! ./LUT/OR2_X4.v_result
+vcs ./verilog_gates/OR3_X1.v ./test_bench/OR3_X1_tb.v 
+ ./simv >! ./LUT/OR3_X1.v_result
+vcs ./verilog_gates/OR3_X2.v ./test_bench/OR3_X2_tb.v 
+ ./simv >! ./LUT/OR3_X2.v_result
+vcs ./verilog_gates/OR3_X4.v ./test_bench/OR3_X4_tb.v 
+ ./simv >! ./LUT/OR3_X4.v_result
+vcs ./verilog_gates/OR4_X1.v ./test_bench/OR4_X1_tb.v 
+ ./simv >! ./LUT/OR4_X1.v_result
+vcs ./verilog_gates/OR4_X2.v ./test_bench/OR4_X2_tb.v 
+ ./simv >! ./LUT/OR4_X2.v_result
+vcs ./verilog_gates/OR4_X4.v ./test_bench/OR4_X4_tb.v 
+ ./simv >! ./LUT/OR4_X4.v_result
+vcs ./verilog_gates/SDFFRS_X1.v ./test_bench/SDFFRS_X1_tb.v 
+ ./simv >! ./LUT/SDFFRS_X1.v_result
+vcs ./verilog_gates/SDFFRS_X2.v ./test_bench/SDFFRS_X2_tb.v 
+ ./simv >! ./LUT/SDFFRS_X2.v_result
+vcs ./verilog_gates/SDFFR_X1.v ./test_bench/SDFFR_X1_tb.v 
+ ./simv >! ./LUT/SDFFR_X1.v_result
+vcs ./verilog_gates/SDFFR_X2.v ./test_bench/SDFFR_X2_tb.v 
+ ./simv >! ./LUT/SDFFR_X2.v_result
+vcs ./verilog_gates/SDFFS_X1.v ./test_bench/SDFFS_X1_tb.v 
+ ./simv >! ./LUT/SDFFS_X1.v_result
+vcs ./verilog_gates/SDFFS_X2.v ./test_bench/SDFFS_X2_tb.v 
+ ./simv >! ./LUT/SDFFS_X2.v_result
+vcs ./verilog_gates/SDFF_X1.v ./test_bench/SDFF_X1_tb.v 
+ ./simv >! ./LUT/SDFF_X1.v_result
+vcs ./verilog_gates/SDFF_X2.v ./test_bench/SDFF_X2_tb.v 
+ ./simv >! ./LUT/SDFF_X2.v_result
+vcs ./verilog_gates/TBUF_X16.v ./test_bench/TBUF_X16_tb.v 
+ ./simv >! ./LUT/TBUF_X16.v_result
+vcs ./verilog_gates/TBUF_X1.v ./test_bench/TBUF_X1_tb.v 
+ ./simv >! ./LUT/TBUF_X1.v_result
+vcs ./verilog_gates/TBUF_X2.v ./test_bench/TBUF_X2_tb.v 
+ ./simv >! ./LUT/TBUF_X2.v_result
+vcs ./verilog_gates/TBUF_X4.v ./test_bench/TBUF_X4_tb.v 
+ ./simv >! ./LUT/TBUF_X4.v_result
+vcs ./verilog_gates/TBUF_X8.v ./test_bench/TBUF_X8_tb.v 
+ ./simv >! ./LUT/TBUF_X8.v_result
+vcs ./verilog_gates/TINV_X1.v ./test_bench/TINV_X1_tb.v 
+ ./simv >! ./LUT/TINV_X1.v_result
+vcs ./verilog_gates/TLAT_X1.v ./test_bench/TLAT_X1_tb.v 
+ ./simv >! ./LUT/TLAT_X1.v_result
+vcs ./verilog_gates/XNOR2_X1.v ./test_bench/XNOR2_X1_tb.v 
+ ./simv >! ./LUT/XNOR2_X1.v_result
+vcs ./verilog_gates/XNOR2_X2.v ./test_bench/XNOR2_X2_tb.v 
+ ./simv >! ./LUT/XNOR2_X2.v_result
+vcs ./verilog_gates/XOR2_X1.v ./test_bench/XOR2_X1_tb.v 
+ ./simv >! ./LUT/XOR2_X1.v_result
+vcs ./verilog_gates/XOR2_X2.v ./test_bench/XOR2_X2_tb.v 
+ ./simv >! ./LUT/XOR2_X2.v_result
