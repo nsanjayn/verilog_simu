@@ -1,0 +1,1 @@
+python top.py -f ../thesis/c880_syn_buf_noline.v -l lib_f -g 0 -p pat_file > ! log
